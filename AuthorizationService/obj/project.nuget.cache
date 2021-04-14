@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NjYg/ldRBZdTSdbrwGQMAuU9EtcnDlNLg3kohBgkM2eWH8mIBLei4jJy9Cwm+vp4DY02H/EumsW4goa1F05szQ==",
+  "dgSpecHash": "VeSyURhmUzL/8ptgab4Zif86EFk79rYLFsjImfSUbwU4gup9MTE0U9daNMaNLUjT5Z4DYamB8EZucIjsXcBnyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\AuthorizationService\\AuthorizationService.csproj",
+  "projectFilePath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\AuthorizationService\\AuthorizationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajith\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",

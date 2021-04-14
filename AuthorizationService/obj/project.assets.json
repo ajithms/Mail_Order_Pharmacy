@@ -3316,11 +3316,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\AuthorizationService\\AuthorizationService.csproj",
+      "projectUniqueName": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\AuthorizationService\\AuthorizationService.csproj",
       "projectName": "AuthorizationService",
-      "projectPath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\AuthorizationService\\AuthorizationService.csproj",
+      "projectPath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\AuthorizationService\\AuthorizationService.csproj",
       "packagesPath": "C:\\Users\\Ajith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\AuthorizationService\\obj\\",
+      "outputPath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\AuthorizationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ajith\\AppData\\Roaming\\NuGet\\NuGet.Config",

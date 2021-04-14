@@ -14,8 +14,8 @@ namespace AuthorizationService.Provider
     {
         public static List<User> userList = new List<User>()
         {
-            new User{MemberId=1, Email="ams@mail.com",Password="ams@cts"},
-            new User{MemberId=2, Email="ajay@mail.com",Password="ajay@cts"},
+            new User{MemberId=1, Email="abc@mail.com",Password="abc@cts"},
+            new User{MemberId=2, Email="xyz@mail.com",Password="xyz@cts"},
         };
         private readonly string Key;
         public JwtAuthenticationManager(string Key)
