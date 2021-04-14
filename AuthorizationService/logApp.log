@@ -1,0 +1,36 @@
+INFO  08:10:32 Application started. Press Ctrl+C to shut down.
+INFO  08:10:32 Application started. Press Ctrl+C to shut down.
+INFO  08:10:32 Hosting environment: Development
+INFO  08:10:32 Hosting environment: Development
+INFO  08:10:32 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  08:10:32 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  08:10:44 Login Request
+INFO  08:10:44 Unauthorized access
+INFO  08:11:00 Login Request
+INFO  08:11:00 Login Success! Token Generated
+INFO  08:11:00 Unauthorized access
+INFO  12:01:54 Application started. Press Ctrl+C to shut down.
+INFO  12:01:54 Application started. Press Ctrl+C to shut down.
+INFO  12:01:54 Hosting environment: Development
+INFO  12:01:54 Hosting environment: Development
+INFO  12:01:54 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  12:01:54 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  12:02:14 Login Request
+INFO  12:02:14 Login Success! Token Generated
+INFO  12:02:28 Login Request
+INFO  12:06:26 Application started. Press Ctrl+C to shut down.
+INFO  12:06:26 Application started. Press Ctrl+C to shut down.
+INFO  12:06:26 Hosting environment: Development
+INFO  12:06:26 Hosting environment: Development
+INFO  12:06:26 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  12:06:26 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  12:06:26 Login Request
+INFO  12:06:26 Login Success! Token Generated
+INFO  12:18:15 Application started. Press Ctrl+C to shut down.
+INFO  12:18:15 Application started. Press Ctrl+C to shut down.
+INFO  12:18:15 Hosting environment: Development
+INFO  12:18:15 Hosting environment: Development
+INFO  12:18:15 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  12:18:15 Content root path: C:\Users\Ajith\Desktop\AuthorizationService
+INFO  12:18:43 Login Request
+INFO  12:18:43 Login Success! Token Generated
