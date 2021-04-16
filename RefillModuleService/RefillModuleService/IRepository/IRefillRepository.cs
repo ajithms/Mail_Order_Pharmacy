@@ -7,7 +7,7 @@ namespace RefillModuleService.IRepository
 {
      public interface IRefillRepository
      {
-        public dynamic ViewAllDetails();
+        public dynamic ViewAllDetails(int memID);
         public dynamic viewRefillStatus(int Subscription_ID);
         public bool AddRefillDetails(Subscription subr);
         public void RemoveRefillDetails(int Subscription_ID);

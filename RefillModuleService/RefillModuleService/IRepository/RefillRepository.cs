@@ -50,12 +50,13 @@ namespace RefillModuleService.IRepository
         /// </summary>
         /// <param name="Sub_Id"></param>
         /// <returns></returns>
-       public virtual dynamic ViewAllDetails()
+        public virtual dynamic ViewAllDetails(int memId)
         {
-            return ls;
+            var item = ls.Where(x => x.Member_ID == memId).ToList();
+            return item;
         }
-        
-        
+
+
         public virtual dynamic viewRefillStatus(int Sub_Id)
         {
             var item = ls.Where(x => x.Subscription_ID == Sub_Id).FirstOrDefault();

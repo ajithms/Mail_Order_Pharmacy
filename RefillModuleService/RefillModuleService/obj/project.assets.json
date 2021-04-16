@@ -7047,11 +7047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\RefillModuleService\\RefillModuleService\\RefillModuleService.csproj",
+      "projectUniqueName": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\RefillModuleService\\RefillModuleService\\RefillModuleService.csproj",
       "projectName": "RefillModuleService",
-      "projectPath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\RefillModuleService\\RefillModuleService\\RefillModuleService.csproj",
+      "projectPath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\RefillModuleService\\RefillModuleService\\RefillModuleService.csproj",
       "packagesPath": "C:\\Users\\Ajith\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\RefillModuleService\\RefillModuleService\\obj\\",
+      "outputPath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\RefillModuleService\\RefillModuleService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ajith\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -28,12 +28,12 @@ namespace RefillModuleService.Controllers
         /// <param name="Sub_id"></param>
         /// <returns></returns>
         // GET: api/<RefillController>/7
-        [HttpGet("RefillStatus")]
-        public IActionResult ViewRefill()
+        [HttpGet("{memId}")]
+        public IActionResult ViewRefill(int memId)
         {
             try
             {
-                var item = _refill.ViewAllDetails();
+                var item = _refill.ViewAllDetails(memId);
                 if (item == null)
                     return null;
                 return Ok(item);
