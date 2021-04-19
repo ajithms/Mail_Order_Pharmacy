@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\DrugMicroservice\\DrugMicroservice.csproj": {}
+    "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\DrugMicroservice\\DrugMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\DrugMicroservice\\DrugMicroservice.csproj": {
+    "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\DrugMicroservice\\DrugMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\DrugMicroservice\\DrugMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\DrugMicroservice\\DrugMicroservice.csproj",
         "projectName": "DrugMicroservice",
-        "projectPath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\DrugMicroservice\\DrugMicroservice.csproj",
+        "projectPath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\DrugMicroservice\\DrugMicroservice.csproj",
         "packagesPath": "C:\\Users\\Ajith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\DrugMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\DrugMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ajith\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
