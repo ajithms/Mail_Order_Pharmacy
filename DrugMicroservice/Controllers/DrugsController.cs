@@ -75,11 +75,11 @@ namespace DrugMicroservice.Controllers
             return Ok(qty);
         }
 
-        [HttpGet("{id}/{location}/{qty}")]
-        public IActionResult updateDrugQuantity(int id,string location,int qty)
+        [HttpGet("{name}/{location}/{qty}")]
+        public IActionResult updateDrugQuantity(string name,string location,int qty)
         {
             _log4net.Info("Updating quantity");
-            if (_drug.updateQuantity(id, location, qty))
+            if (_drug.updateQuantity(name, location, qty))
             {
                 return Ok();
             }

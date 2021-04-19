@@ -95,6 +95,10 @@ namespace SubscriptionMicroservice.DAL
                 using (var httpClient = new HttpClient())
                 {
                     var id = subscription.SubscriptionID;
+                    var name = subscription.DrugName;
+                    var location = subscription.Location;
+                    var qty = subscription.Quantity;
+                    var updateQty = httpClient.GetAsync("http://localhost:5001/api/Drugs/"+name+"/"+location+"/"+qty);
                     var response = httpClient.PostAsJsonAsync("http://localhost:7007/api/Refill/Add/", subscription);
                     if (response.Result.IsSuccessStatusCode)
                     {

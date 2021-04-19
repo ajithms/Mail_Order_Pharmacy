@@ -87,9 +87,9 @@ namespace DrugMicroservice.Repositories
             return item;
         }
 
-        public bool updateQuantity(int id, string location, int qty)
+        public bool updateQuantity(string name, string location, int qty)
         {
-            var item = drugList.Where(x => x.DrugId == id).FirstOrDefault();
+            var item = drugList.Where(x => x.Name == name).FirstOrDefault();
             try
             {
                 item.LocQty[location] -= qty;

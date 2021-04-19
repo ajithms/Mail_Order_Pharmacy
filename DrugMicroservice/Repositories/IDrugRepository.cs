@@ -11,6 +11,6 @@ namespace DrugMicroservice.Repositories
         Drug searchDrugsByID(int drugId);
         Drug searchDrugsByName(string name);
         int getLocationQty(string name, string location);
-        bool updateQuantity(int id, string location, int qty);
+        bool updateQuantity(string name, string location, int qty);
     }
 }

@@ -419,3 +419,22 @@
 2021-04-15 20:35:31,958 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
 2021-04-15 20:35:31,958 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Ajith\Desktop\MailOrderPharmacy\SubscriptionMicroservice
 2021-04-15 20:38:37,317 [2] INFO Microsoft.Hosting.Lifetime - Application is shutting down...
+2021-04-19 12:08:58,937 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5003
+2021-04-19 12:08:58,951 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-19 12:08:58,951 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-19 12:08:58,951 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Ajith\Desktop\Git\Mail_Order_Pharmacy\SubscriptionMicroservice
+2021-04-19 12:27:54,180 [2] INFO Microsoft.Hosting.Lifetime - Application is shutting down...
+2021-04-19 12:44:32,589 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5003
+2021-04-19 12:44:32,613 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-19 12:44:32,614 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-19 12:44:32,614 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Ajith\Desktop\Git\Mail_Order_Pharmacy\SubscriptionMicroservice
+2021-04-19 12:45:07,927 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5003
+2021-04-19 12:45:07,940 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-19 12:45:07,940 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-19 12:45:07,940 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Ajith\Desktop\Git\Mail_Order_Pharmacy\SubscriptionMicroservice
+2021-04-19 12:55:46,447 [9] INFO Microsoft.Hosting.Lifetime - Application is shutting down...
+2021-04-19 12:55:54,011 [1] INFO Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5003
+2021-04-19 12:55:54,027 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-19 12:55:54,027 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-19 12:55:54,028 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Ajith\Desktop\Git\Mail_Order_Pharmacy\SubscriptionMicroservice
+2021-04-19 13:28:17,403 [2] INFO Microsoft.Hosting.Lifetime - Application is shutting down...
