@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "79zGPGAwIXc9+PRPwDZWOl4sFNZPQ6SkAyuEqczMyjy1efnqWajtNSHEmppWLnYf+dkhobARk9HiX6m2ve0yZw==",
+  "dgSpecHash": "/IIoWNhE3U8RcFLjb2qw3YN1m+MweXdDwutxHz1dIfpqcpIb0S77RBdFx0IuYRRHkSHep2ZN/IR1hvnyMMzi6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ajith\\Desktop\\MailOrderPharmacy\\SubscriptionMicroservice\\SubscriptionMicroservice.csproj",
+  "projectFilePath": "C:\\Users\\Ajith\\Desktop\\Git\\Mail_Order_Pharmacy\\SubscriptionMicroservice\\SubscriptionMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajith\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.5\\microsoft.aspnetcore.jsonpatch.5.0.5.nupkg.sha512",
@@ -22,6 +22,7 @@
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
